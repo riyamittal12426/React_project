@@ -1,5 +1,5 @@
 ## Nike Landing Page - React Project
-This project is a React implementation of a clean, modern landing page for a Nike shoe store, based on the provided UI design.
+This project is a React implementation of a clean, modern landing page for a Nike shoe store.
 
  ## Description 📜
 This is a static frontend project that replicates the hero/landing page of a Nike e-commerce concept. It focuses on component-based architecture using React, demonstrating a clean separation of concerns and a modern UI.
